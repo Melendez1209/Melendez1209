@@ -14,7 +14,6 @@ interested in helping me continue to maintain them, you can still reach me at my
 # Projects of mine
 
 - [the Biggest project I have been involved in](https://github.com/brentvollebregt/auto-py-to-exe)
-- [One project that I want to keep doing](https://github.com/CarlGao4/ClassIn-Mover)
 
 # More about me
 
